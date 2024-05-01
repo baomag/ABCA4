@@ -1,0 +1,2 @@
+NHDF2_D130	/storage/novaseq/Data/220926_A00431_0433_BHJFY5DSX3/Data/Intensities/BaseCalls/10x/NHDF2_D130	
+NHDF2_D320	/storage/novaseq/Data/220926_A00431_0433_BHJFY5DSX3/Data/Intensities/BaseCalls/10x/NHDF2_D320	

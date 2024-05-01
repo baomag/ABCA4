@@ -1,0 +1,5 @@
+celltype	symbol
+MG	RLBP1
+MG	AQP
+MG	SLC1A3
+RPC	ASCL1

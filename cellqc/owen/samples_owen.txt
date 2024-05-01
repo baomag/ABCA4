@@ -1,0 +1,5 @@
+sample	cellranger
+BM_C003_D43	/storage/singlecell/maggie/ABCA4/cellqc/owen/datadir/BM_C003_D43
+CRB_C4_D119	/storage/singlecell/maggie/ABCA4/cellqc/owen/datadir/CRB_C4_D119
+WT_D002_D43	/storage/singlecell/maggie/ABCA4/cellqc/owen/datadir/WT_D002_D43
+WT_A815_D119	/storage/singlecell/maggie/ABCA4/cellqc/owen/datadir/WT_A815_D119

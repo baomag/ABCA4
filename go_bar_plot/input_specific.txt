@@ -1,0 +1,2 @@
+Cone_Specific_Control
+Cone_Specific_Disease

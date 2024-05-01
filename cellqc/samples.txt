@@ -1,0 +1,7 @@
+sample	cellranger
+10x3v31_Organoid_JONR1_D135	/storage/singlecell/zz4/ABCA4_project/data/10x3v31_Organoid_JONR1_D135/outs
+10x3v31_Organoid_JONR_D262	/storage/singlecell/zz4/ABCA4_project/data/10x3v31_Organoid_JONR_D262/outs
+10x3v31_Organoid_SONR1_D135	/storage/singlecell/zz4/ABCA4_project/data/10x3v31_Organoid_SONR1_D135/outs
+10x3v31_Organoid_SONR_D262	/storage/singlecell/zz4/ABCA4_project/data/10x3v31_Organoid_SONR_D262/outs
+NHDF2_D130	/storage/singlecell/maggie/ABCA4/cellqc/datadir/NHDF2_D130
+NHDF2_D320	/storage/singlecell/maggie/ABCA4/cellqc/datadir/NHDF2_D320

@@ -1,0 +1,5 @@
+# Things to ignore
+# Large file and output directory
+*.rds
+*.h5ad
+out_slurm

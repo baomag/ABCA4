@@ -1,0 +1,14 @@
+Cone_Disease
+Cone_Control
+Rod_Disease
+Rod_Control
+AC_Disease
+AC_Control
+BC_Disease
+BC_Control
+HC_Disease
+HC_Control
+RGC_Disease
+RGC_Control
+RPE_Disease
+RPE_Control

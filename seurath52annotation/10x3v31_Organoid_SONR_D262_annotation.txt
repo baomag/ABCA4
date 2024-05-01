@@ -1,0 +1,16 @@
+Cluster	Celltype
+0	MG
+1	Cone
+2	Rod
+3	Rod
+4	NA
+5	MG
+6	Cone
+7	BC
+8	BC
+9	AC
+10	MG
+11	NA
+12	Cone
+13	HC
+14	NA

@@ -1,0 +1,7 @@
+D45	/storage/singlecell/maggie/ABCA4/cellqc/tomreh
+D60a	/storage/singlecell/maggie/ABCA4/cellqc/tomreh
+D60b	/storage/singlecell/maggie/ABCA4/cellqc/tomreh
+D90	/storage/singlecell/maggie/ABCA4/cellqc/tomreh
+D104	/storage/singlecell/maggie/ABCA4/cellqc/tomreh
+D110	/storage/singlecell/maggie/ABCA4/cellqc/tomreh
+D205	/storage/singlecell/maggie/ABCA4/cellqc/tomreh

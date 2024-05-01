@@ -1,0 +1,26 @@
+# samples with Cell Ranger output directories
+samples: samples_owen.txt
+
+## configuration for dropkick
+dropkick:
+  skip: true
+  method: multiotsu
+  numthreads: 1
+
+## Filter cells by nCount, nFeature, and mito
+filterbycount:
+  mincount: 500
+  minfeature: 300
+  mito: 5
+
+## configuration for DoubletFinder
+doubletfinder:
+  findpK: false
+  numthreads: 5
+  pK: 0.01
+
+## configuration for scPred
+scpred:
+  skip: true
+  reference: /storage/singlecell/maggie/cellqc/tests/test_data/scPred_reference.rds
+  threshold: 0.9
